@@ -95,7 +95,7 @@ if n % 2 == 0:
 ```
 #### If-else
 
-```
+```python
 n = 5
 if n % 2 == 0:
     print("n is even")
@@ -105,7 +105,7 @@ else:
 
 #### If-elif-else
 
-```
+```python
 x = 15
 y = 12
 if x == y:
@@ -124,14 +124,14 @@ Used for looping and repeating code blocks.
 
 ### for loop
 
-```
+```python
 for i in range(5):
     print(i)
 ```
 
 ####while loop
 
-```
+```python
 # Example of a while loop
 n = 0
 while n < 5:
