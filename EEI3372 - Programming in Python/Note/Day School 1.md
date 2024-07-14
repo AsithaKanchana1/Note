@@ -92,7 +92,7 @@ Used for branching and decision-making.
 n = 10
 if n % 2 == 0:
     print("n is an even number")
-
+```
 #### If-else
 
 ```
