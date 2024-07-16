@@ -107,4 +107,3 @@ XYZ
 These guidelines promote effective and respectful communication in both offline and online settings.
 
 *This document is for educational purposes only. Please do not use it for commercial purposes without permission.*
-```
